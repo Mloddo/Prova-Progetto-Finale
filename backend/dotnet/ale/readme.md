@@ -1,0 +1,1 @@
+completo anche con i cors settati
